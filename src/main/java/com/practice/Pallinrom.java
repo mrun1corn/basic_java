@@ -2,7 +2,7 @@ package com.practice;
 
 import java.util.Scanner;
 
-public class ReverseNumber {
+public class Pallinrom {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int sum=0, r, temp;
